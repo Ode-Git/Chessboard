@@ -1,2 +1,2 @@
 # Chessboard
-Interactive chessboard
+Interactive web-based chessboard. 
